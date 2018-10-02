@@ -131,4 +131,10 @@ footer {
   background-position: center center;
 }
 
+@media (max-width: 768px) {
+.profile {
+    height: 250px;
+  }
+}
+
 /*# sourceMappingURL=style.css.map */
